@@ -67,8 +67,8 @@ Ensure you have Python installed. For the LLM "Executive Summary" feature, ensur
 Clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/your-username/Swan-Customer-Insight-System.git
-cd Swan-Customer-Insight-System
+git clone https://github.com/mashroorhssn/AI-Driven-Customer-Sentiment-Insight-System.git
+cd AI-Driven-Customer-Sentiment-Insight-System
 pip install -r requirements.txt
 
 ```
